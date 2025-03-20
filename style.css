@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+button{
+   position: relative;
+    top: 300px;
+    background-color: grey;
+    height: 40px;
+    width: 100px;
+    columns: black;
+    display: flex;
+    justify-content: space-between;
+    margin: 2px;
+    border-radius: 5%;
+    
+
+}
+button:hover{
+    background-color: black;
+    height: 45px;
+    width: 105px;
+    color: aliceblue;
+}
+#array{
+    position: relative;
+    top: 200px;
+    left: 180px;
+    justify-content: center;
+}
+
+
+
+#display{
+    
+    position:absolute;
+    bottom: 100px;
+    left: 500px:
+}
